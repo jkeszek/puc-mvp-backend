@@ -25,7 +25,6 @@ Instale as dependencias:
 ```bash
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-pip install -r requirements.txt
 ```
 
 ## Execucao
